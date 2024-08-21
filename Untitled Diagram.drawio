@@ -51,7 +51,7 @@
         <mxCell id="_0y8IVrKsmxppvDywgn8-16" value="+ _generate_jwt_token(): string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_0y8IVrKsmxppvDywgn8-13">
           <mxGeometry y="298" width="219" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_0y8IVrKsmxppvDywgn8-28" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_0y8IVrKsmxppvDywgn8-13">
+        <mxCell id="_0y8IVrKsmxppvDywgn8-28" value="+ login(Map&amp;lt;String, dynamic&amp;gt;): User" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_0y8IVrKsmxppvDywgn8-13">
           <mxGeometry y="332" width="219" height="34" as="geometry" />
         </mxCell>
       </root>
